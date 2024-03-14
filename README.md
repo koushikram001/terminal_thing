@@ -1,4 +1,4 @@
-##installation
+## installation
 
 Install the dependencies
 ```shell
